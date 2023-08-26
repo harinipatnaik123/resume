@@ -1,0 +1,30 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+
+h3 {
+    color: #0262f3d5;
+
+}
+
+span {
+    color: grey;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: plum;
+    border-width: 5px;
+    width: 10%;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
